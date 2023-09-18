@@ -1,7 +1,5 @@
 # Hola, mi nombre es Juan Manuel Pernia 👋
 
-![https://github.com/JuanmpDev](https://raw.githubusercontent.com/JuanmpDev/JuanmpDev/master/372497208575128.png)
-
 ![GitHub Followers](https://img.shields.io/github/followers/JuanmpDev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Juanmpv?style=social)
 
