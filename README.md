@@ -1,5 +1,4 @@
 # Hola, mi nombre es Juan Manuel Pernia 👋
-### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/JuanmpDev](https://raw.githubusercontent.com/JuanmpDev/JuanmpDev/master/372497208575128.png)
 
